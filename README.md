@@ -8,6 +8,8 @@ This automation test consists of 4 individual test scenarios each presented as a
 * FoodTest - checks if feeding functionality works as expected
 * VideoTest - records a short video and saves it to the gallery
 
+*NOTE: the path to save the screenshots is currently set to my local directory and should be modified accordingly*
+
 # BaseTest
 
 Base test was a preset JAVA class file with one error I found. There was a wrong id specified for a special permission dialog prompt:
